@@ -7,5 +7,8 @@
 3. Apply scalling on train data (min-max) scalling
    <img width="616" height="133" alt="image" src="https://github.com/user-attachments/assets/cf6d8f1c-8d4f-4c30-8f99-70a4fd179f40" />
    <img width="453" height="47" alt="image" src="https://github.com/user-attachments/assets/b0603948-ada5-471b-bf3d-a4d3a41216bb" />
+4. Apply scalling on test data
+   <img width="915" height="203" alt="image" src="https://github.com/user-attachments/assets/ceed18b2-db56-48d4-9c41-477e4411baa1" />
+
 
 
