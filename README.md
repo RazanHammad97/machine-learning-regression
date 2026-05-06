@@ -1,11 +1,17 @@
 # Machine Learning Course
 # checklist 
 [✔] Data Preparation
+
 [✔] Feature Scaling
-[➡️] Training (Gradient Descent) ← الآن
+
+[➡️] Training (Gradient Descent) ← 
+الآن
 [ ] Evaluation (MSE)
+
 [ ] Visualization
+
 [ ] Report
+
 
 Practical Steps
 # Regression Algorithm to minimize cost function
